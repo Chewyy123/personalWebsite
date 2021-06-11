@@ -1,0 +1,208 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.imageContainer {
+    background-color: #D3D3D3;
+    padding: 75px;
+}
+
+.anthonyHeader {
+    margin-top: 50px;
+    font-family: "Arvo";
+    font-size: 4em;
+}
+
+.webHeader {
+    text-align: center;
+    font-size: 2em;
+    padding: 30px;
+}
+
+.headerImage {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+}
+
+/* ABOUT ME */
+
+.personalPhoto {
+    height: 300px;
+    float: left;
+    margin-right: 20px;
+    padding-left: 30px;
+}
+
+.personalPhoto2 {
+    height: 300px;
+    float: right;
+    margin-right: 20px;
+    padding-left: 30px;
+}
+
+.aboutMe {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 3em;
+}
+
+.aboutmeText {
+    font-size: 2em;
+    padding-right: 30px;
+}
+
+.aboutmeContainer {
+    background-color: #add8e6;
+    margin: 0;
+    padding:0;
+    height: 500px;
+}
+
+/* PROJECTS */
+
+.simonContainer {
+    background-color: #D3D3D3;
+    height: 500px;
+}
+
+.projectHeader {
+    font-size: 3em;
+}
+
+.simonHeader {
+    text-align: center;
+}
+
+.simonGame {
+    height: 300px;
+    width: 600px;
+    float: right;
+    padding-right: 30px;
+}
+
+.simonText {
+    font-size: 2em;
+    padding-left: 30px;
+}
+
+/* SARALINA */
+
+.saraLinaContainer {
+    background-color: #D3D3D3;
+    margin: 0;
+    padding:0;
+    height: 500px;
+}
+
+.saraLinaHeader {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.saraLinaPhoto {
+    height: 300px;
+    width: 600px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.saraLinaText {
+    font-size: 2em;
+    padding-right: 30px;
+}
+
+/* WEBSITE */
+
+.websiteContainer {
+    background-color: #add8e6;
+    height: 500px;
+}
+
+.websiteHeader {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 3em;
+}
+
+.websitePhoto {
+    height: 300px;
+    width: 600px;
+    float: right;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 10px solid black;
+}
+
+.websiteText {
+    font-size: 2em;
+    padding-left: 30px;
+}
+
+/* SKILLS */
+
+.skillsContainer {
+    background-color: #D3D3D3;
+    margin: 0;
+    padding:0;
+    height: 500px;
+    text-align: center;
+}
+
+.skillsHeader {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 3em;
+}
+
+.skillsButton {
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+/* CONTACT ME */
+
+.contactMeContainer {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 500px;
+}
+
+.contactMeHeader {
+    color: white;
+    padding-top: 30px;
+}
+
+.contactMeText {
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.text-center {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.text-centerTwo {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.anthonyBaca {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+
